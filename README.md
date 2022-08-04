@@ -11,3 +11,5 @@ In the CSS section ,I was basically maintained a central design and used shadow 
  
 ![Uploading Screenshot (322).png…]()
 ![Screenshot (323)](https://user-images.githubusercontent.com/92047366/182772751-2eb1e706-62f8-4ef0-8eb1-10cad1412774.png)
+![Screenshot (324)](https://user-images.githubusercontent.com/92047366/182772829-3afd01a5-fc83-4255-a00f-a539128c36c9.png)
+![Screenshot (317)](https://user-images.githubusercontent.com/92047366/182772883-e90dfba0-7bd7-4af8-ab14-1b01929182a5.png)
