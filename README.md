@@ -7,4 +7,5 @@ A tribute page is basically an overview of someone whom we admire in our life. I
 <hr>
 In the <body> element, I was given the title of the page using h1 tag after that ,I was added an image of lata ji in the img tag with some caption. I was created another div tag and write all the contents (using p tags). I was also given ID for each tag so that we can beautify the design using respective-ID in the CSS file.
 In the CSS section ,I was basically maintained a central design and used shadow to create effect around the main content.
+ <h2>Output<h2>
  
